@@ -1,17 +1,11 @@
 # Speech-Recognition
 
-## About
-
 Speech-Recognition is a simple web application which uses user's microphone and manipulate the box shown with recognizable allowed grammars.
-
-----
 
 #### Requires
 
 * Microphone access.
 * Active Internet Connection.
-
-----
 
 #### How to run
 
