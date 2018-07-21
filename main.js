@@ -13,8 +13,6 @@ recognition.lang = 'en-US';
 recognition.interimResults = false;
 recognition.maxAlternatives = 1;
 
-var diagnostic = document.querySelector('.output');
-
 recognition.onresult = function(event) {
 	var prop = event.results[0][0].transcript;
 	console.log(prop);
